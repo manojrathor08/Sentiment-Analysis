@@ -1,5 +1,5 @@
 # BERT Sentiment Analysis API
-
+![Sentiment Analysis Result](images/image.png)
 A Flask-based web application that provides sentiment analysis using BERT models from Hugging Face.
 
 ## Overview
